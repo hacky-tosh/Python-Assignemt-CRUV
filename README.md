@@ -30,13 +30,28 @@ Advanced Cricket Tournament Simulation Program using Python
    ```bash
    python main.py
 
-Example Usage
-Here's an example of how to use the program:
+##Sample Input : 
 
-Enter the names of the players for each team.
-Enter the team names.
-Enter the field size, fan ratio, pitch conditions, and home advantage.
-Simulate the match and view the live commentary.
-The final scores and the winner of the match will be displayed.
+Enter name of player 1: MS Dhoni
+Enter name of player 2: Virat
+Enter name of player 3: Ben
+Enter name of player 4: Joe
+Enter name of team 1: India
+Enter name of team 2: England
+Enter field size: Large
+Enter fan ratio: 0.8
+Enter pitch conditions: dry
+Enter home advantage: yes
+
+Select the captain for Team India: Virat
+Select the captain for Team England: Joe
+
+Enter the batting order for India:
+Player 1: Virat
+Player 2: MS Dhoni
+
+Enter the batting order for England:
+Player 1: Joe
+Player 2: Ben
 
 
