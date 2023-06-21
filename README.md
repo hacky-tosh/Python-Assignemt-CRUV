@@ -30,7 +30,7 @@ Advanced Cricket Tournament Simulation Program using Python
    ```bash
    python main.py
 
-##Sample Input : 
+## Sample Input : 
 
 Enter name of player 1: MS Dhoni
 Enter name of player 2: Virat
