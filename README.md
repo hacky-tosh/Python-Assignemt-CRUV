@@ -17,4 +17,17 @@ Advanced Cricket Tournament Simulation Program using Python
 1. Clone the repository:
 
    ```bash
-   git clone [git@github.com:hacky-tosh/Python-Assignemt-CRUV.git](https://github.com/hacky-tosh/Python-Assignemt-CRUV.git)https://github.com/hacky-tosh/Python-Assignemt-CRUV.git
+   git clone https://github.com/hacky-tosh/Python-Assignemt-CRUV.git
+
+
+2. Navigate to the project directory:
+   
+   ```bash
+   cd Python-Assignemt-CRUV
+
+3. Run the program:
+
+   ```bash
+   python main.py
+
+
