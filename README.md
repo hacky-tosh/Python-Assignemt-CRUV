@@ -30,4 +30,13 @@ Advanced Cricket Tournament Simulation Program using Python
    ```bash
    python main.py
 
+Example Usage
+Here's an example of how to use the program:
+
+Enter the names of the players for each team.
+Enter the team names.
+Enter the field size, fan ratio, pitch conditions, and home advantage.
+Simulate the match and view the live commentary.
+The final scores and the winner of the match will be displayed.
+
 
